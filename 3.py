@@ -11,4 +11,4 @@ def print_report(team_name, **info):
 print(analyze_scores(8, 10, 7, 9))
 print(analyze_scores(5, 5))
 print(analyze_scores())
-print_report("Комета", coach="Иванов", city="Минск")
+print_report("Комета", coach="Иващенко", city="Могилев")
